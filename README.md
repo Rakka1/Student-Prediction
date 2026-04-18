@@ -1,4 +1,4 @@
-**#Student Academic Performance Predictor#**
+**Student Academic Performance Predictor**
 
 A machine learning model that predicts grades.
 
@@ -15,6 +15,7 @@ The data set was obtained from kaggle:
 https://www.kaggle.com/code/ahmedwaelnasef/student-higher-education-ml-algorithms-with-gradio
 
 **Strategic Objectives**
+
 Correlation Analysis: Evaluate the relationship between previous academic results and final outcomes.
 
 Factor Impact Study: Examine how external variables like absences and study habits influence performance.
@@ -32,4 +33,4 @@ Analysis: The significant gap between the training and test scores indicates mod
 
 Current Iteration: I am currently performing Feature Selection and Hyperparameter Tuning to reduce variance and improve the model's reliability on the test set.
 
-**G3 Model - Train Score: 0.89, Test Score: 0.**12
+**G3 Model - Train Score: 0.89, Test Score: 0.12**
